@@ -1,0 +1,4 @@
+/* Pad down so that the navbar dont overlap the page(s) */
+body { 
+	padding-bottom: 70px; 
+}
